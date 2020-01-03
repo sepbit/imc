@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.sepbit.flex",
+               "sha256_cert_fingerprints": ["3F:92:49:1C:15:82:97:76:C8:32:1F:81:55:F4:4E:DB:BF:D4:59:B3:48:EE:DA:E5:7A:3B:1E:2C:65:12:68:96"] }
+}]
