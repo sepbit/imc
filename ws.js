@@ -1,6 +1,6 @@
 /* global caches, fetch, self */
 
-const cacheName = 'imc-v2'
+const cacheName = 'imc-v3'
 const contentToCache = [
   '/',
   '/index.html',
