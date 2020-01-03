@@ -1,14 +1,11 @@
-# Flex
+# IMC
 
-Descubra qual combustível é mais vantajoso, etanol ou gasolina
+Calcule seu IMC e descubra se está no peso ideal
 
 ## Install
 
-* Web Browser: [https://flex.sepbit.com](https://flex.sepbit.com)
+* Web Browser: [https://imc.sepbit.com](https://imc.sepbit.com)
 
-* Microsoft Store:: [https://www.microsoft.com/store/apps/9PNML880311P](https://www.microsoft.com/store/apps/9PNML880311P)
-
-* Play Store: [https://play.google.com/store/apps/details?id=com.sepbit.flex](https://play.google.com/store/apps/details?id=com.sepbit.flex)
 
 ## Contributing
 
