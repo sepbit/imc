@@ -1,6 +1,6 @@
 /* global caches, fetch, self */
 
-const cacheName = 'pwa-v1'
+const cacheName = 'imc-v1'
 const contentToCache = [
   '/',
   '/index.html',
