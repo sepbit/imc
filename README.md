@@ -6,6 +6,9 @@ Calcule seu IMC e descubra se está no peso ideal
 
 * Web Browser: [https://imc.sepbit.com](https://imc.sepbit.com)
 
+* Microsoft Store: [https://www.microsoft.com/store/apps/9N5FJPPGL27W](https://www.microsoft.com/store/apps/9N5FJPPGL27W)
+
+* Play Store: [https://play.google.com/store/apps/details?id=com.sepbit.imc](https://play.google.com/store/apps/details?id=com.sepbit.imc)
 
 ## Contributing
 

@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.sepbit.imc",
+               "sha256_cert_fingerprints": ["E4:FB:A6:DC:1A:38:35:4B:C3:CE:22:42:17:74:33:03:5F:5A:6D:01:16:BC:2A:35:3E:DE:D4:84:E3:D4:46:18"] }
+}]
