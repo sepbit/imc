@@ -1,0 +1,17 @@
+{
+  "name": "Calculadora IMC",
+  "short_name": "IMC",
+  "description": "Calcule seu IMC e descubra se está no peso ideal",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation" : "any",
+  "theme_color": "#28a745",
+  "background_color": "#28a745",
+  "icons": [
+    {
+      "src": "/assets/images/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
