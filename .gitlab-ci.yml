@@ -1,3 +1,5 @@
+include:
+  - template: Security/SAST.gitlab-ci.yml
 pages:
   stage: deploy
   script:
@@ -6,4 +8,4 @@ pages:
     paths:
     - public
   only:
-  - master
+  - main

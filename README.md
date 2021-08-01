@@ -2,6 +2,8 @@
 
 Calcule seu IMC e descubra se está no peso ideal
 
+Este pacote é compatível com [Prettier](https://prettier.io), [StandardJS](https://standardjs.com) and [LibreJS](https://www.gnu.org/software/librejs).
+
 ## Install
 
 * Web Browser: [https://imc.sepbit.com](https://imc.sepbit.com)
