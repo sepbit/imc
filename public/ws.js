@@ -1,16 +1,15 @@
 /* global caches, fetch, self */
 
-const cacheName = 'imc-v5'
+const cacheName = 'imc-v6'
 const contentToCache = [
   '/',
   '/index.html',
   '/assets/style.css',
   '/assets/images/512.png',
   '/assets/app.js',
-  'https://code.jquery.com/jquery-3.4.1.slim.min.js',
-  'https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js',
-  'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js',
-  'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css'
+  'https://code.jquery.com/jquery-3.5.1.slim.min.js',
+  'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js',
+  'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css'
 ]
 
 self.addEventListener('install', function (e) {
